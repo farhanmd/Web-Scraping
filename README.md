@@ -1,4 +1,4 @@
-# Web-Scraping
+# Web-Scraping Project using Scrapy Framework
 
 In order to scrape the website, I have used Scrapy. In short, Scrapy is a framework built to build web scrapers more easily and relieve the pain of maintaining them. Basically, it allows us to focus on the data extraction using CSS selectors and choosing XPath expressions and less on the intricate internals of how spiders are supposed to work. 
 
